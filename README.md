@@ -1,5 +1,6 @@
 
-![Dark Simple Future LinkedIn Banner](https://github.com/francescocaccia/francescocaccia/assets/123968277/3b58cf04-dc68-4c29-8508-eedb22f153ff)
+![Orange Modern Technology LinkedIn Banner](https://github.com/francescocaccia/francescocaccia/assets/123968277/6c9f2be3-7fe8-4703-8c1d-cb0979c98aea)
+
 
 
 
