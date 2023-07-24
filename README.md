@@ -14,15 +14,15 @@ Come Web Developer Full Stack, mi dedico a creare esperienze digitali coinvolgen
 - Database: 🐘 PostgreSQL
 
 ## Mi piace ❤️
-- Sviluppare applicazioni web intuitive e user-friendly
-- Risolvere problemi complessi
-- Collaborare con team dinamici
-- Imparare nuove tecnologie e tendenze nel settore dello sviluppo web
+- Creare applicazioni web intuitive e user-friendly che migliorino l’esperienza dell’utente
+- Supportare piccole realtà nel farsi conoscere tramite il web, creando per loro siti accattivanti e funzionali
+- Lavorare in team dinamici e collaborativi per raggiungere obiettivi comuni
+- Essere sempre aggiornato sulle nuove tecnologie e tendenze nel settore dello sviluppo web
 
 ## Contatti 📬
-- Email: [cacciapuotifrancesco3@gmail.com](mailto:cacciapuotifrancesco3@gmail.com)
-- LinkedIn: [Francesco Cacciapuoti su LinkedIn](https://www.linkedin.com/in/francesco-cacciapuoti-45019718a/)
-- Portfolio: [Portfolio di Francesco Cacciapuoti](https://portfolio-francesco-cacciapuoti.vercel.app/)
+- Email: [email](mailto:cacciapuotifrancesco3@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/francesco-cacciapuoti-45019718a/)
+- Portfolio: [Portfolio](https://portfolio-francesco-cacciapuoti.vercel.app/)
 
-Sono sempre alla ricerca di nuove opportunità per crescere professionalmente e contribuire al successo di un’azienda innovativa nel settore dello sviluppo web. Sono determinato a migliorare continuamente, adattandomi alle nuove tecnologie e tendenze del settore, e sono sempre pronto ad affrontare nuove sfide con entusiasmo e determinazione, mettendo in campo tutta la mia esperienza e le mie competenze per raggiungere i miei obiettivi e superare le aspettative dei miei clienti. Sono un professionista ambizioso, motivato e sempre alla ricerca di nuove opportunità per crescere e migliorare. 💪
+La mia costante voglia di crescita professionale mi spinge a cacciare sempre nuove opportunità per contribuire al successo di un'azienda all'avanguardia nel settore dello sviluppo web. Affronto ogni giorno con determinazione, cercando di migliorarmi costantemente e adattarmi alle nuove tecnologie e tendenze che emergono nel settore. Sono pronto ad abbracciare con entusiasmo ogni nuova sfida che si presenta, mettendo a frutto tutta la mia esperienza e le mie competenze per raggiungere i traguardi prefissati e superare le aspettative dei miei clienti. La mia ambizione e motivazione sono sempre alla base della mia ricerca costante di nuove occasioni per crescere e perfezionarmi nel campo professionale.💪
 
